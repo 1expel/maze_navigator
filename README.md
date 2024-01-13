@@ -7,7 +7,7 @@ given a start coordinate, finish coordinate, and coordinates of many barriers, f
 ## Solution
 
 - written in python
-- implements a heuristic search algorith using manhattan distance to the finish to select path
+- implements a heuristic search algorithm using manhattan distance to the finish to select path
 - implemented using a priority queue, visited, and node data structures
 - after visited a node, the node because closed or visited
 - nodes are only re-opened if a shoter path is found to that node / state
